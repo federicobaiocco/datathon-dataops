@@ -1,5 +1,9 @@
 # Datathon 2021 - Dataops
 
+This is my solution for the Dataops challenge of campus party 2021: https://github.com/Datathon2021
+
+Got the 3rd place
+
 ## Run repo
 First run ```make build_docker_image``` in order to build the docker image and install dependences.
 Once image is built run ```make init_airflow``` in order to run image.
